@@ -1,0 +1,17 @@
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\bin\Debug\Missile_Project.exe.config
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\bin\Debug\Missile_Project.exe
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\bin\Debug\Missile_Project.pdb
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.csprojAssemblyReference.cache
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\App.g.cs
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project_MarkupCompile.cache
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project_MarkupCompile.lref
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\MainWindow.baml
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.g.resources
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.Properties.Resources.resources
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.csproj.GenerateResource.cache
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.exe
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\Missile_Project.pdb
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\UserContro.g.cs
+C:\Users\Moshe\source\repos\Missile_Project\Missile_Project\obj\Debug\UserContro.baml
